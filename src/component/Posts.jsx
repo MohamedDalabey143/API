@@ -23,7 +23,7 @@ function API (){
 
 
     return <div>
-        <h1>Hello APi</h1>
+        <h1>Hello Posts</h1>
 
         {
             user.map( (data) =>{
